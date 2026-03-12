@@ -46,10 +46,4 @@ This project implements a **GenAI-powered assistant** capable of:
 
 ---
 
-## 📦 Setup Instructions
 
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/Aarohisaxena/EZlab_assignment
-cd EZlab_assignment

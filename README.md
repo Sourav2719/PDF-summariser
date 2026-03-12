@@ -44,6 +44,7 @@ This project implements a **GenAI-powered assistant** capable of:
 | PDF Parser       | PyPDF2             |
 | File Handling    | Python 3.11+       |
 
----
+
+
 
 
